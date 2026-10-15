@@ -1,0 +1,20 @@
+[
+  {
+    "name": "facebook/react",
+    "description": "The library for web and native user interfaces.",
+    "url": "https://github.com/facebook/react",
+    "starred_at": "2025-02-18"
+  },
+  {
+    "name": "microsoft/TypeScript",
+    "description": "TypeScript is a strongly typed programming language that builds on JavaScript.",
+    "url": "https://github.com/microsoft/TypeScript",
+    "starred_at": "2025-01-30"
+  },
+  {
+    "name": "vitejs/vite",
+    "description": "Next generation frontend tooling.",
+    "url": "https://github.com/vitejs/vite",
+    "starred_at": "2024-12-12"
+  }
+]
