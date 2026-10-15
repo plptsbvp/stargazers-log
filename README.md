@@ -1,2 +1,2 @@
 # stargazers-log
-Repositórios Marcos com Estrela
+Repositórios Marcados com Estrela
